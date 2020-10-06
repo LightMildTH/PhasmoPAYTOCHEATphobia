@@ -13,11 +13,6 @@ namespace ExampleAssembly
 {
     public class Cheat : MonoBehaviour
     {
-        /* 
-         * WARNING: if you frequently catch yourself pasting cheats then you might get triggered 
-         * reading some of my comments, I highly recommend going back to your safe zone.
-         */
-
         #region Standard Unity methods
         // Runs once.
         private void Start()
