@@ -171,10 +171,6 @@ namespace ExampleAssembly
         {
             GUI.color = Color.white;
 
-            // ---------------------------------------> For pasters only. <---------------------------------------------------
-            //GUI.Label(new Rect(10, 10, 500, 40), "Insert generic cheat name here -- and don't forget to claim that you wrote this.");
-            //GUI.Label(new Rect(10, 15, 520, 40), "Oh and also, don't forget to sell this for real money. That's what the cool kids are doing. :^ )");
-
             // Ghost ESP.
             if (ghostAI != null && MyPlayer != null)
             {
