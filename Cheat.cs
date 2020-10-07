@@ -30,13 +30,6 @@ namespace ExampleAssembly
                 }
             }).Start();
 
-            /*if (notScared)
-            {
-                StartCoroutine(Horror.TorchFlicker());
-                StartCoroutine(Horror.GhostGrowl());
-                StartCoroutine(Horror.CloseRandomDoor());
-            }*/
-
             // Give 2.1billion of every item, give money and level you up.
             PlayerStats.SetMax(); 
             PlayerPrefs.SetInt("fovValue", 120);
