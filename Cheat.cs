@@ -45,9 +45,6 @@ namespace ExampleAssembly
              * Why not Input.GetKeyCode()? - it doesn't work for some reason.
              * If somebody could point out why that might be then please do.
              */
-            //if (Keyboard.current.f1Key.wasPressedThisFrame)
-                //KickEveryone();
-
             StartCoroutine(KeyHandler());
 
             if (notScared)
