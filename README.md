@@ -3,3 +3,6 @@ This is a simple mono internal for the game Phasmophobia. I try and use the simp
 
 # Features
 Ghost ESP, Non-host kick every player from a lobby, FOV changer, speedhack, Unlimited money & items, Level changer, A few examples of making the game more scary, Keybind system.
+
+# UC
+https://www.unknowncheats.me/forum/other-games/420137-phasmophobia-mono-cheat.html
